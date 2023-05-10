@@ -1,0 +1,90 @@
+0. 深入理解C++
+1. c++虚函数详解
+https://blog.csdn.net/weixin_45138932/article/details/125667041
+2. c++深拷贝和浅拷贝
+https://blog.csdn.net/csdnwei/article/details/114088993
+3. C++——如何理解.h文件和.cpp文件
+https://blog.csdn.net/xiao_bei_/article/details/86488899
+4. 现代C++函数式编程
+https://blog.csdn.net/Real_Myth/article/details/52289845?utm_source=blogxgwz3
+
+
+
+1. 基本数据类型
+向量
+1. vector及实现自定义vector以及allocator和iterator
+https://blog.csdn.net/qq_44824574/article/details/123472640
+2. C++ vector 使用详解
+https://blog.csdn.net/qq_38289815/article/details/105896622?ops_request_misc=&request_id=&biz_id=102&utm_term=C++%20%3Cvector%3E&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-105896622.142^v7^pc_search_result_control_group,157^v4^control&spm=1018.2226.3001.4187
+
+
+引用
+1. 引用做函数参数
+https://blog.csdn.net/yz2zcx/article/details/100604724
+
+智能指针
+1. 4种智能指针
+https://blog.csdn.net/yz2zcx/article/details/100604724
+
+类
+1. C++构造函数（从本质上理解）
+http://c.biancheng.net/view/149.html
+2. 类的成员函数和变量的访问、静态与非静态成员函数
+https://blog.csdn.net/weixin_42953152/article/details/126213594
+3. 类成员属性public、private、protected
+https://blog.csdn.net/weixin_39270987/article/details/108669956
+4. c++结构体几种初始化方法
+https://skywf.blog.csdn.net/article/details/107869575?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-2-107869575-blog-79725018.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-2-107869575-blog-79725018.pc_relevant_default&utm_relevant_index=5
+
+总结对比
+1. 数组、向量和指针的区别
+https://blog.csdn.net/yz2zcx/article/details/100604724
+2. 指针类型间强制转换
+https://blog.csdn.net/yz2zcx/article/details/100604724
+3. 种类型转换运算符
+http://c.biancheng.net/view/2343.html
+4. 八种基本数据类型
+https://baijiahao.baidu.com/s?id=1712887737417635338&wfr=spider&for=pc
+
+
+2. 基本函数和工具
+1. ofstream和ifstream详细用法
+https://blog.csdn.net/u014800094/article/details/107705860
+2. 六种c++计时器函数（秒级到微妙级）
+https://blog.csdn.net/qq_40692109/article/details/103164916
+3. cudaMalloc((void** devPtr,size_t size),内存申请用void**的原因总结
+https://blog.csdn.net/yangjinyi1314/article/details/124742959
+4. C++中“->”和“.和“::”的区别
+https://blog.csdn.net/zldz14/article/details/81227977
+5. std::getline()
+https://www.cnblogs.com/wsw-seu/p/13377186.html
+6. inl文件
+https://blog.csdn.net/qq_29667889/article/details/109308265
+
+
+3. 环境配置
+1. VS每次都要重建编译的解决方案
+https://jingyan.baidu.com/article/3f16e0032dddad2591c103e6.html
+2. vscode配置C/C++编译环境
+https://www.cnblogs.com/zwj-199306231519/articles/16151715.html
+3. VS项目属性页详解和配置（笔记）
+https://blog.csdn.net/weixin_40957452/article/details/122122080?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1-122122080-blog-109517407.pc_relevant_multi_platform_featuressortv2dupreplace&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1-122122080-blog-109517407.pc_relevant_multi_platform_featuressortv2dupreplace&utm_relevant_index=1
+4. Visual Studio项目属性配置
+https://blog.csdn.net/y24283648/article/details/109517407
+
+
+
+4. 编译链接原理
+1. 静态加载和动态加载
+https://blog.csdn.net/luyumiao1990/article/details/107184447?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-107184447-blog-122538051.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-107184447-blog-122538051.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=1
+2. lib和dll文件的区别和联系
+https://blog.csdn.net/weixin_51229250/article/details/119153885
+3. Windows PATH变量、命令行、搜索路径
+https://blog.csdn.net/juzicode00/article/details/109538186
+
+
+5. 计算机硬件
+1. 缓存基础-本地缓存、分布式缓存和多级缓存
+https://blog.csdn.net/you18131371836/article/details/118212987?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166729430216800180693116%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166729430216800180693116&biz_id=0&utm_medium=distribute.pc_chrome_plugin_search_result.none-task-blog-2~all~top_click~default-2-118212987-null-null.nonecase&utm_term=%E7%BC%93%E5%AD%98&spm=1018.2226.3001.4187
+2. 内存部件介绍及使用
+https://www.cnblogs.com/laiyingpeng/p/13158623.html
