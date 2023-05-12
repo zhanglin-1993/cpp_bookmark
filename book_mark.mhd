@@ -7,7 +7,17 @@ https://blog.csdn.net/csdnwei/article/details/114088993
 https://blog.csdn.net/xiao_bei_/article/details/86488899
 4. 现代C++函数式编程
 https://blog.csdn.net/Real_Myth/article/details/52289845?utm_source=blogxgwz3
-
+5. 内存管理
+5.1 new和malloc
+https://blog.csdn.net/m0_59483369/article/details/126139498
+5.2 内存泄漏-原因、避免以及定位
+https://mp.weixin.qq.com/s/fZzNNiEp0Qb374J37SP2xw
+5.3 C/C++ 程序占用内存的分配机制-释放和回收理解
+https://blog.csdn.net/vcit102/article/details/125727417
+5.4 C++ vector的释放
+https://blog.csdn.net/wangyang20170901/article/details/80065761
+5.5 性能优化专题（一）用VS自带的工具分析应用性能
+https://www.cnblogs.com/zhao56/p/14809419.html
 
 
 1. 基本数据类型
@@ -25,6 +35,8 @@ https://blog.csdn.net/yz2zcx/article/details/100604724
 智能指针
 1. 4种智能指针
 https://blog.csdn.net/yz2zcx/article/details/100604724
+2. c++11智能指针（二）：shared_ptr和自定义的Deleter
+https://blog.csdn.net/lijinqi1987/article/details/78523071
 
 类
 1. C++构造函数（从本质上理解）
@@ -60,6 +72,8 @@ https://blog.csdn.net/zldz14/article/details/81227977
 https://www.cnblogs.com/wsw-seu/p/13377186.html
 6. inl文件
 https://blog.csdn.net/qq_29667889/article/details/109308265
+7. c++ static总结
+https://blog.csdn.net/www_dong/article/details/116102066
 
 
 3. 环境配置
