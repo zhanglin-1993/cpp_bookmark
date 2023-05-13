@@ -7,17 +7,22 @@ https://blog.csdn.net/csdnwei/article/details/114088993
 https://blog.csdn.net/xiao_bei_/article/details/86488899
 4. 现代C++函数式编程
 https://blog.csdn.net/Real_Myth/article/details/52289845?utm_source=blogxgwz3
-5. 内存管理
-5.1 new和malloc
+
+0.5 内存管理
+0.5.1 new和malloc
 https://blog.csdn.net/m0_59483369/article/details/126139498
-5.2 内存泄漏-原因、避免以及定位
+0.5.2 内存泄漏-原因、避免以及定位
 https://mp.weixin.qq.com/s/fZzNNiEp0Qb374J37SP2xw
-5.3 C/C++ 程序占用内存的分配机制-释放和回收理解
+0.5.3 C/C++ 程序占用内存的分配机制-释放和回收理解
 https://blog.csdn.net/vcit102/article/details/125727417
-5.4 C++ vector的释放
+0.5.4 C++ vector的释放
 https://blog.csdn.net/wangyang20170901/article/details/80065761
-5.5 性能优化专题（一）用VS自带的工具分析应用性能
+0.5.5 性能优化专题（一）用VS自带的工具分析应用性能
 https://www.cnblogs.com/zhao56/p/14809419.html
+0.5.6 Memory Profiling in Visual C++ 2015
+https://devblogs.microsoft.com/cppblog/memory-profiling-in-visual-c-2015/#:~:text=To%20activate%20heap%20snapshots%2C%20open%20the%20Memory%20Usage,profiling%20can%20be%20enabled%20without%20restarting%20the%20debugger.
+0.5.7 First look at profiling tools (C#, Visual Basic, C++, F#)
+https://learn.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2019
 
 
 1. 基本数据类型
